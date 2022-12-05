@@ -1,0 +1,32 @@
+{
+  "products": [
+    {
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRm81XoZa9dFFAFPY-LjxgJ-XAj-KeySicSvw&usqp=CAU",
+      "nickname": "niki",
+      "image": "https://dubaiofw.com/wp-content/uploads/2016/04/marvel-img-worlds-of-adventure-dubai.jpg",
+      "descr": "Amaya",
+      "id": 4
+    },
+    {
+      "avatar": "https://www.nasa.gov/sites/default/files/styles/full_width/public/thumbnails/image/main_image_star-forming_region_carina_nircam_final-1280.jpg",
+      "nickname": "beka",
+      "image": "https://www.kraftwerk.at/app/uploads/fly-images/962/reference-img-worlds-of-adventure-park-4-1920x9999.jpg",
+      "descr": "js 27",
+      "id": 5
+    },
+    {
+      "avatar": "https://pixlr.com/images/index/remove-bg.webp",
+      "nickname": "lina",
+      "image": "https://imgd.aeplcdn.com/1056x594/n/cw/ec/102709/ntorq-125-right-front-three-quarter.jpeg?isig=0&q=75",
+      "descr": "js 27",
+      "id": 6
+    },
+    {
+      "avatar": "ertyu",
+      "nickname": "fghj",
+      "image": "https://www.kraftwerk.at/app/uploads/fly-images/962/reference-img-worlds-of-adventure-park-4-1920x9999.jpg",
+      "descr": "dfgh",
+      "id": 7
+    }
+  ]
+}
